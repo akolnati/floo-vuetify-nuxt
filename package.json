@@ -2,7 +2,6 @@
   "name": "floo-vuetify-nuxt",
   "version": "1.0.0",
   "description": "Vuetify based Nuxt universal Application scaffold for Floo",
-  "author": "Aditya Kolnati",
   "private": true,
   "scripts": {
     "dev": "nuxt",
