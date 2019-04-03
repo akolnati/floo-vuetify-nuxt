@@ -1,7 +1,7 @@
 {
-  "name": "nuxttemplate",
+  "name": "floo-vuetify-nuxt",
   "version": "1.0.0",
-  "description": "My ace Nuxt.js project",
+  "description": "Vuetify based Nuxt universal Application scaffold for Floo",
   "author": "Aditya Kolnati",
   "private": true,
   "scripts": {
