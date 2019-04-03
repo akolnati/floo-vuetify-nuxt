@@ -1,6 +1,6 @@
-# floo-vuetify-nuxt
+# {{PROJECT_TITLE}}
 
-> Vuetify based Nuxt universal Application scaffold for Floo
+>  Floo Generated Vuetify based Nuxt universal Application
 
 ## Build Setup
 
